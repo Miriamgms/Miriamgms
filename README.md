@@ -1,8 +1,9 @@
 ## Olá, eu sou a Miriam
 
 - 🩷 I’m currently working on secretary
-- 💗 I'm currently learning systems development 
-
+- 💗 I'm currently learning systems development
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 </a>
 </div>
 
@@ -23,15 +24,10 @@
 
 <div align="center">
 <a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
-
-<br>
-<br> 
 
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+
+
 
 
 
