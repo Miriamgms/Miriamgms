@@ -26,8 +26,12 @@
 
 
 
-
-<img src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif" alt="Computador" width="700" height="300">
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh0dThscmxjdXA5MDRoeGEwNHVkYTBraGM4bnV4MGtvNXd5a3EyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3mmIcKFnuRb4f1Wuxt/giphy.webp" alt="Girl" width="150" height="150">
 
 
+</div>
+ 
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif" alt="Exemplo de GIF" />
+</p>
