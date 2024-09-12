@@ -35,3 +35,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif" alt="Exemplo de GIF" />
 </p>
+
+
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+
+ <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
