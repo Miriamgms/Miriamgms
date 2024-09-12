@@ -41,3 +41,8 @@
 
 
  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
+ <div/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ5ZjFmenNzMjMzdGJnMWZ5c2poMXF0ODhvN3ZmazI1eWpwOTNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UdxJwrriQpQ2Y/giphy.webp" width="100" height="50">
