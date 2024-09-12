@@ -27,7 +27,7 @@
 
 
 
-<img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" alt="Computador" width="300" height="200">
+<img src="https://i.pinimg.com/originals/9b/65/72/9b657262fa73ddce27d3f19b9d0e7f7c.gif" alt="Computador" width="600" height="300">
 
 
 
