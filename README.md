@@ -33,7 +33,7 @@
  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/84/0a/c1/840ac1a5eef2c7abcaca3e4757db48e9.gif" alt="Exemplo de GIF" />
+  <img src="https://i.pinimg.com/originals/9b/42/05/9b42059d8a17648c903c67979604dd76.gif" alt="Exemplo de GIF" />
 </p>
 
 
