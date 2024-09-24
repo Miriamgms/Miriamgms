@@ -33,9 +33,6 @@
 </div>
  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b2/e9/6a/b2e96afe2d346ab0c7db708cb08adcbd.gif" alt="Exemplo de GIF" />
-</p>
 
 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
