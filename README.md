@@ -1,4 +1,4 @@
-m5hbF9naWZfYnlfaWQmY3Q9cw/UdxJwrriQpQ2Y/giphy.webp" width="100" height="50">
+
 ## Olá!
 
 - 🩷 I’m currently working on secretary
