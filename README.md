@@ -1,9 +1,10 @@
+m5hbF9naWZfYnlfaWQmY3Q9cw/UdxJwrriQpQ2Y/giphy.webp" width="100" height="50">
 ## Olá!
 
 - 🩷 I’m currently working on secretary
 - 💗 I'm currently learning systems development
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=a7c57e&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 </a>
 </div>
 
@@ -33,7 +34,7 @@
  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9b/42/05/9b42059d8a17648c903c67979604dd76.gif" alt="Exemplo de GIF" />
+  <img src="https://i.pinimg.com/originals/b2/e9/6a/b2e96afe2d346ab0c7db708cb08adcbd.gif" alt="Exemplo de GIF" />
 </p>
 
 
@@ -45,4 +46,4 @@
 
 
  <div/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ5ZjFmenNzMjMzdGJnMWZ5c2poMXF0ODhvN3ZmazI1eWpwOTNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UdxJwrriQpQ2Y/giphy.webp" width="100" height="50">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ5ZjFmenNzMjMzdGJnMWZ5c2poMXF0ODhvN3ZmazI1eWpwOTNnaCZlcD12MV9pbnRlc
