@@ -1,46 +1,11 @@
 
-## Olá!
+Olá! Eu sou a Miriam - Secretária e Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🩷 I’m currently working on secretary
-- 💗 I'm currently learning systems development
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=a7c57e&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
-</a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br>
-<br>
+
+- 🎓 Se formando como **Analista de sistemas** pela São Judas Tadeu</a>.
 
 
 
-
-
-</div>
-
-<div align="center" >
-   
-
-</div>
-
-<div align="center">
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-
-
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh0dThscmxjdXA5MDRoeGEwNHVkYTBraGM4bnV4MGtvNXd5a3EyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3mmIcKFnuRb4f1Wuxt/giphy.webp" alt="Girl" width="150" height="150">
-
-
-</div>
- 
-
-
-
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-
- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-
- <div/>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ5ZjFmenNzMjMzdGJnMWZ5c2poMXF0ODhvN3ZmazI1eWpwOTNnaCZlcD12MV9pbnRlc
