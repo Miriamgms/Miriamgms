@@ -11,7 +11,7 @@ Olá! Eu sou a Miriam - Secretária e Estudante de Análise e Desenvolvimento de
 
 
 
-<img src="https://github.com/user-attachments/assets/3d718c41-deac-4316-b3ed-4d90efcd9605" alt="ilustração de um computador" min-width="100px" max-width="100px" width="300px" align="right">
+<img src="https://github.com/user-attachments/assets/7c13f808-42f1-495a-8728-6518264d38c6" min-width="100px" max-width="100px" width="300px" align="right">
 
 
 
