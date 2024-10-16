@@ -1,5 +1,5 @@
 
-Olá! Eu sou a Miriam - Secretária e Estudante de Análise e Desenvolvimento de Sistemas
+Olá! Eu sou a Miriam - Auxiliar de escritório e Estudante de Análise e Desenvolvimento de Sistemas
 
  
 
