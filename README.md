@@ -1,34 +1,8 @@
 
-Olá! Eu sou a Miriam - Auxiliar de escritório e Estudante de Análise e Desenvolvimento de Sistemas
-
+## Olá!
+Estudante de Análise e Desenvolvimento de sistemas 
  
-
-
-
-- 🎓 Se formando como **Analista de sistemas** pela São Judas Tadeu</a>.
-
-
-
-
-
-<img src="https://github.com/user-attachments/assets/7c13f808-42f1-495a-8728-6518264d38c6" min-width="100px" max-width="100px" width="300px" align="right">
-
-
-
-
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 </a>
 </div>
 
@@ -41,6 +15,33 @@ Olá! Eu sou a Miriam - Auxiliar de escritório e Estudante de Análise e Desenv
 
 </div>
 
+<div align="center" >
+   
+
+</div>
+
+<div align="center">
+<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
+
+
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh0dThscmxjdXA5MDRoeGEwNHVkYTBraGM4bnV4MGtvNXd5a3EyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3mmIcKFnuRb4f1Wuxt/giphy.webp" alt="Girl" width="150" height="150">
+
+
+</div>
+ 
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9b/42/05/9b42059d8a17648c903c67979604dd76.gif" alt="Exemplo de GIF" />
+</p>
+
+
+
+
+
+
+ <div/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ5ZjFmenNzMjMzdGJnMWZ5c2poMXF0ODhvN3ZmazI1eWpwOTNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UdxJwrriQpQ2Y/giphy.webp" width="100" height="50">
 <div align="fixed" >
 
 Sinta-se à vontade para entrar em contato!
