@@ -1,8 +1,10 @@
 
 
-##Estudante de Análise e Desenvolvimento de sistemas 
+Estudante de Análise e Desenvolvimento de sistemas 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFC2D9&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Miriam;I'm+20+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+
 </a>
 </div>
 
@@ -32,7 +34,7 @@
  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9b/42/05/9b42059d8a17648c903c67979604dd76.gif" alt="Exemplo de GIF" />
+  <img src="https://i.pinimg.com/originals/7c/db/a9/7cdba9baae9bdffd9ee64a764dd12921.gif" alt="Exemplo de GIF" />
 </p>
 
 
