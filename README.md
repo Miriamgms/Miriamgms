@@ -2,7 +2,7 @@
 
 # Olá!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0093&background=FF90B3&center=true&vCenter=true&width=500&lines=Meu+nome+%C3%A9+Miriam;Tenho+21+anos;Moro+em+S%C3%A3o+Paulo)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=f496fa&background=444244&center=true&vCenter=true&width=500&lines=Meu+nome+%C3%A9+Miriam;Tenho+21+anos;Moro+em+S%C3%A3o+Paulo)
 
 <p align="center">
   <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-2ac8-61f8-80ad-b118f0388d47/raw?se=2025-06-24T19%3A16%3A29Z&sp=r&sv=2024-08-04&sr=b&scid=48e6bde9-0b76-54df-b3f9-6bba70b7dfce&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T12%3A54%3A07Z&ske=2025-06-25T12%3A54%3A07Z&sks=b&skv=2024-08-04&sig=hbwx/xE8T5lJQuadzX9SXHXDWwvUkHQVrnDu7SQwCmc%3D" alt="Setup moderno" width="400"/>
