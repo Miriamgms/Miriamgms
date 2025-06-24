@@ -10,7 +10,7 @@
 
   
   
-  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-4cd8-61f8-88db-e775fbf79314/raw?se=2025-06-24T19%3A18%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=361c7327-5a54-52e4-9708-ea4a0a844725&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T17%3A48%3A32Z&ske=2025-06-25T17%3A48%3A32Z&sks=b&skv=2024-08-04&sig=YckW6EjB%2BgWPE63yqyMiRM5nGVVkX2zzatmxkDk6NQk%3D" alt="Computador retrô" width="500"/>
+  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-4cd8-61f8-88db-e775fbf79314/raw?se=2025-06-24T19%3A18%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=361c7327-5a54-52e4-9708-ea4a0a844725&skoid=30ec2761-8f41-44db-b282-7a0f8809659b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T17%3A48%3A32Z&ske=2025-06-25T17%3A48%3A32Z&sks=b&skv=2024-08-04&sig=YckW6EjB%2BgWPE63yqyMiRM5nGVVkX2zzatmxkDk6NQk%3D" alt="girl" width="500"/>
 
 
 
